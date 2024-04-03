@@ -6,7 +6,7 @@
 [![Github Downloads All Releases](https://img.shields.io/github/downloads/grimme-lab/xtb/total)](https://github.com/grimme-lab/xtb/releases)
 
 This is the offical repository of the `xtb` program package developed by the Grimme group in Bonn.
-
+ 
 <div align="center">
 <img src="./assets/logo/xtb.svg" alt="Extended Tight Binding" width="220">
 </div>
